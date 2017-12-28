@@ -1,0 +1,2 @@
+# s3_rekognition_test
+读取图片流存储到S3，然后使lambda使用rekognition服务
